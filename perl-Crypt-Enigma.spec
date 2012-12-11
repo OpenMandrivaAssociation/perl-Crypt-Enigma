@@ -38,3 +38,32 @@ rm -rf %{buildroot}
 %{_mandir}/*/*
 
 
+
+
+%changelog
+* Sat May 28 2011 Funda Wang <fwang@mandriva.org> 1.3-5mdv2011.0
++ Revision: 680851
+- mass rebuild
+
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 1.3-4mdv2011.0
++ Revision: 430352
+- rebuild
+
+* Wed Jul 30 2008 Thierry Vignaud <tv@mandriva.org> 1.3-3mdv2009.0
++ Revision: 256262
+- rebuild
+
+* Fri Dec 21 2007 Olivier Blin <oblin@mandriva.com> 1.3-1mdv2008.1
++ Revision: 136699
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Wed Sep 13 2006 Oden Eriksson <oeriksson@mandriva.com> 1.3-1mdv2007.0
+- rebuild
+
+* Thu Jul 14 2005 Oden Eriksson <oeriksson@mandriva.com> 1.3-1mdk
+- initial Mandriva package
+
