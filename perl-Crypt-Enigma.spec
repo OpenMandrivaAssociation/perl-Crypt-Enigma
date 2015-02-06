@@ -3,7 +3,7 @@
 Summary:	Crypt-Enigma module for perl 
 Name:		perl-%{real_name}
 Version:	1.3
-Release:	6
+Release:	7
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
