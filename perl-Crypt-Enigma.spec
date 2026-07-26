@@ -2,12 +2,12 @@
 
 Summary:	Crypt-Enigma module for perl 
 Name:		perl-%{real_name}
-Version:	1.3
-Release:	7
+Version:	1.4
+Release:	1
 License:	GPL or Artistic
 Group:		Development/Perl
-URL:		https://search.cpan.org/dist/%{real_name}
-Source0:	%{real_name}-%{version}.tar.bz2
+URL:		https://metacpan.org/dist/Crypt-Enigma
+Source0:	https://cpan.metacpan.org/authors/id/A/AL/ALIZTA/Crypt-Enigma-%{version}.tar.gz
 BuildRequires:	make
 BuildRequires:	perl-devel
 BuildArch:	noarch
